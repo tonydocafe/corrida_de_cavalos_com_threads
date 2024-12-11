@@ -20,4 +20,5 @@ Nenhuma thread pode avançar para o próximo estágio da corrida até que todas 
 
 gcc corrida_de_cavalo.c -o corrida -fopenmp
 
-gcc p_threads.c -o corrida -fopenmp
+gcc p_threads.c -o corrida -pthreads
+
