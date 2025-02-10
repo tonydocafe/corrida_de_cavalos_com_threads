@@ -13,7 +13,7 @@ Este programa simula uma corrida de cavalos utilizando threads em C. Cada cavalo
 ## Compilação e Execução
 ### Compilar o código:
 ```sh
-gcc -o corrida corrida.c -pthread
+gcc -o corrida p_thread.c -pthread
 ```
 
 ### Executar o programa:
