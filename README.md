@@ -3,6 +3,7 @@
 ## Descrição
 Este programa simula uma corrida de cavalos utilizando threads em C. Cada cavalo é representado por uma thread que progride aleatoriamente ao longo da pista até atingir a linha de chegada. A corrida é dividida em estágios, e há sincronização entre os cavalos para garantir que todos completem os estágios antes de avançar.
 
+
 ## Funcionalidades
 - Simulação de uma corrida com 10 cavalos (threads)
 - Progresso aleatório para cada cavalo
